@@ -21,6 +21,5 @@
   %end
     </tr>
 %end
-    
 </tbody>    
 </table>
