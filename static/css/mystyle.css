@@ -1,0 +1,101 @@
+
+@charset "utf-8";
+
+@font-face {
+   font-family: Monoton;
+   src: url('static/fonts/Monoton-Regular.ttf') format('truetype');
+}
+
+@font-face {
+   font-family: Sprinkles;
+   src: url('../Sprinkles.ttf') format('truetype');
+}
+
+@font-face {
+   font-family: AnonymousPro;
+   src: url('../fonts/AnonymousPro-Bold.ttf') format('truetype');
+}
+
+@font-face {
+   font-family: Flavors;
+   src: url('webapp/static/fonts/Flavors-Regular.ttf') format('truetype');
+}
+
+@font-face {
+   font-family: HappyMonkey;
+   src: url('../fonts/HappyMonkey-Regular.ttf') format('truetype');
+}
+
+@font-face {
+   font-family: monofett;
+   src: url('../fonts/monofett.ttf') format('truetype');
+}
+
+@font-face {
+   font-family: DawningofaNewDay;
+   src: url('/WebApp/fonts/DawningofaNewDay.ttf') format('truetype');
+}
+
+.myfont {
+   font-family: Monoton;
+   color: #DA25FB;
+}
+
+.mybody {
+   width: fit-content;
+   background-size: cover;
+   background-image: url('../imgs/Dandelion.png');
+   background-repeat: no-repeat;
+}
+
+.bg-img {
+   background-image: url('/static/imgs/blurred-bark.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 1000px;
+   height: 250px;
+}
+
+.sprinkles {
+   color: #73D216;
+   font-family: Sprinkles;
+   font-weight: bolder;
+}
+
+.myp1 {
+   color: #fff;
+   font-family: Comfortaa;
+}
+
+.flavors {
+   color: #fd7e14;
+   font-family: Flavors;
+}
+
+.dawn {
+   color: #fff;
+   font-family: DawningofaNewDay;
+   font-weight: 900;
+   height:
+
+}
+
+body {
+   padding-top: 3.6em;
+}
+
+#nav-menu {
+   margin-right: 1rem;
+}
+
+hr {
+   color: #fff;
+}
+
+.white {
+   color: #fff:
+}
+
+ {
+   border-color: #fff
+}
